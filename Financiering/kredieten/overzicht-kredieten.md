@@ -179,40 +179,43 @@
 | Post | Bedrag |
 |------|--------|
 | **Aankoopprijs LK 53** | 575.000 € |
-| Registratierechten + notaris | ± 25.000 € |
-| **Totaal benodigd** | **± 600.000 €** |
+| Registratierechten (70% woning @ 3%, 30% winkel @ 12%) | 32.775 € |
+| Notariskosten | ± 8.000 € |
+| **Totaal benodigd** | **± 616.000 €** |
 
 | Bron financiering | Bedrag |
 |-------------------|--------|
 | 🔄 Bestaande kredieten (meenemen) | 166.014 € |
 | 💰 Eigen inbreng Stefaan (netto Hoogstraat) | ± 280.000 € |
 | 💰 Eigen inbreng Eva (verkoop appartement) | 85.000 € |
-| 🆕 Nieuw krediet | ± 70.000 € |
-| **Totaal** | **± 601.000 €** |
+| 🆕 Nieuw krediet | ± 85.000 € |
+| **Totaal** | **± 616.000 €** |
 
-### Nieuw krediet: 70.000 € @ 3,2%
+### Nieuw krediet: 85.000 € @ 3,65%
 
 | Looptijd | Maandbedrag | Totaal rente |
 |----------|-------------|--------------|
-| 20 jaar | ± 395 € | 24.800 € |
-| **25 jaar** | **± 340 €** | 32.000 € |
-| 30 jaar | ± 302 € | 38.720 € |
+| 20 jaar | ± 500 € | 35.000 € |
+| **25 jaar** | **± 430 €** | 44.000 € |
+| 30 jaar | ± 390 € | 55.400 € |
 
 ### 📊 Totale maandlast Lange Koepoortstraat 53
 
 | Krediet | Maandbedrag |
 |---------|-------------|
 | Bestaande 3 kredieten (166k, ~1,5%) | ± 1.050 € |
-| Nieuw krediet (70k @ 3,2%, 25j) | ± 340 € |
-| **Totaal per maand** | **± 1.390 €** |
+| Nieuw krediet (85k @ 3,65%, 25j) | ± 430 € |
+| Wederopname renovatie (53k @ 3,65%, 175m) | ± 400 € |
+| **Totaal per maand** | **± 1.880 €** |
 
 ### Totaal krediet op LK 53
 
 | Type | Bedrag |
 |------|--------|
 | 🔄 Bestaande kredieten (lage rente) | 166.014 € |
-| 🆕 Nieuw krediet | ± 70.000 € |
-| **Totaal krediet** | **± 236.000 €** |
+| 🆕 Nieuw krediet | ± 85.000 € |
+| 🔧 Wederopname renovatie | ± 53.000 € |
+| **Totaal krediet** | **± 304.000 €** |
 
 ### Eigen inbreng
 
