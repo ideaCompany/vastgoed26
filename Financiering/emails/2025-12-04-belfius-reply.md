@@ -48,3 +48,4 @@ Als het pand als opbrengsteigendom wordt gezien (winkelpand):
 > ⚠️ Dit moet herberekend worden in het financieringsplan!
 
 
+

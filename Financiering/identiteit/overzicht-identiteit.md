@@ -46,3 +46,4 @@
 
 ⚠️ Stefaan's identiteitskaart verloopt op **06.09.2026** - nog geldig voor de huidige transacties.
 
+
